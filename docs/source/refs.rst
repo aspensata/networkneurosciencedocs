@@ -33,4 +33,5 @@ van Der Most, Jeroen “The Averages.” 2019, www.jeroenvandermost.com/averages
 
 ‌Doerig, A., Kietzmann, T. C., Allen, E., Wu, Y., Naselaris, T., Kay, K., & Charest, I. (2025). High-level visual representations in the human brain are aligned with large language models. Nature Machine Intelligence. https://doi.org/10.1038/s42256-025-01072-0 
 ‌
+
 Deeb, Wissam, et al. “Fornix-Region Deep Brain Stimulation–Induced Memory Flashbacks in Alzheimer’s Disease.” New England Journal of Medicine, vol. 381, no. 8, 22 Aug. 2019, pp. 783–785, https://doi.org/10.1056/nejmc1905240. 
