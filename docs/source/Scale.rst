@@ -7,10 +7,11 @@ https://www.youtube.com/watch?v=w_zdB1am_7I&list=RDw_zdB1am_7I&start_radio=1
 
 .. code-block:: console
 
-   Notice how, in the video, it is possible to predict in broad terms patterns in
-   the other instruments from observing patterns in the soprano section alone. This 
-   is similar to how neuroscientists predict complex behaviors by reducing many dimensions,
-   or channels, into one channel. Ask yourself: do we lose information by doing this?
+   Notice how, in the video, it is possible to predict in broad terms,
+   what the other instruments are about to do from observing the soprano 
+   section alone. This is similar to how neuroscientists predict complex 
+   behaviors by reducing many dimensions, or channels, into one channel. 
+   Ask yourself: do we lose information by doing this?
 
 Herein lies the central paradox of modern neuroscience. It seems like the computations that the brain performs about internal states are distributed, or spread out across a very wide region of the brain, and at the same time, intricate, or occurring in a very specific order according to a very specific set of computational rules (Betzel & Bassett, 2017). This means that it can be difficult to understand what is actually going on. It would be like trying to understand a conversation about a difficult breakup by standing next to one speaker on a busy conference call. We would only receive one or two words, enough to know that there is a complex emotional exchange proceeding, but not enough to understand who is performing what roles. If you’ve ever stood next to someone on the phone, you know how frustrating it can be to intuit what is going on from looking at one part of the exchange instead of the exchange in its entirety. 
 
