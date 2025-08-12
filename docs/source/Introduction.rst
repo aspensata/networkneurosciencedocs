@@ -39,6 +39,6 @@ In the 12 years following the publication of the 5th edition of the Diagnostic a
 Manual of Mental Disorders (DSM-5), discoveries in systems neuroscience, computational
 neuroscience, biology, and psychology have provided us better scientific frameworks for understanding what goes wrong at the computational level of the brain when someone is trapped in a cycle of distress and counterproductive behavior. 
 
-As future clinicians, you have the opportunity to align medical, legal, and therapeutic frameworks for diagnosing and treating mental illness to this new scientific understanding. These entrenched structures are slow to change, but change and its inevitability form the basis of much of this new science of cognition. The goal of this page is to provide context about how information processing in the brain actually occurs, in order to determine what the DSM-5 is useful in telling us, and what is is not.
+As future clinicians, you have the opportunity to align medical, legal, and therapeutic frameworks for diagnosing and treating mental illness to this new scientific understanding. These entrenched structures are slow to change, but change and its inevitability form the basis of much of this new science of cognition. The goal of this page is to provide context about how information processing in the brain actually occurs, in order to determine what the DSM-5 is useful in telling us, and what is not.
 
 
