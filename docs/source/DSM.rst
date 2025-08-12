@@ -5,5 +5,7 @@ The first efforts to name and categorize mental illness in America were undertak
 
 The Research Diagnostic Criteria (RDC) anchored nosology (the practice of naming diseases) in replicable combinations of disease traits that could be observed with high inter-rater reliability. Because the DSM-3 was trait based and simply identified clusters of co-occurring symptoms, it was thought to be a valuable starting place to study the underlying biology of each cluster. However, this was quickly determined not to be true. There was generally poor correspondence between DSM categories and biomarkers of mental illness (Easley & Hannon, 2025). But why?
 
+
+
 .. image:: venn.png
    :width: 600
