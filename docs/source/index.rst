@@ -20,4 +20,7 @@ Contents
    Importance
    Barrier
    Reductionism
+   Role
+   Acquiring
+   HPC
    
