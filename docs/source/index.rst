@@ -23,5 +23,4 @@ Contents
    Role
    Acquiring
    HPC
-   refs
-   
+   References   
