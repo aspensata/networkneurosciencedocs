@@ -19,4 +19,4 @@ Contents
 .. toctree::
 
    Introduction
-   api
+   Complexity
