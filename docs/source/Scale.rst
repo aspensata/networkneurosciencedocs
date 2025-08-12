@@ -5,7 +5,8 @@ The brain operates in a complex, high dimensional space. What is the correct sca
 
 https://www.youtube.com/watch?v=w_zdB1am_7I&list=RDw_zdB1am_7I&start_radio=1
 
-.. code-block::
+.. code-block:: console
+
    Notice how, in the video, it is possible to predict in broad terms patterns in
    the other instruments from observing patterns in the soprano section alone. This 
    is similar to how neuroscientists predict complex behaviors by reducing many dimensions,
