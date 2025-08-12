@@ -1,3 +1,3 @@
 
-.. image:: https://ibb.co/yFc9826Q
+.. image:: networkneurosciencedocs/docs/venn.png
   :width: 400
