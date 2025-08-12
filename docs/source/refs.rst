@@ -1,5 +1,5 @@
 References
-
+===========
 
 Kawa, S., & Giordano, J. (2012). A brief historicity of the Diagnostic and Statistical Manual of Mental Disorders: issues and implications for the future of psychiatric canon and practice. Philosophy, ethics, and humanities in medicine : PEHM, 7, 2. https://doi.org/10.1186/1747-5341-7-2 
 
