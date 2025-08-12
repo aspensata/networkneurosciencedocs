@@ -9,5 +9,5 @@ The process of averaging data across participants can make it seem like there is
 
 However, the more parameters that can vary within a sample, the more perilous it becomes to take an average. It would be inaccurate to say there are no shared characteristics in the works of Rembrandt and Van Gogh, but because the number of parameters that change between each painting is so large, an average of these paintings does not reveal meaningful data, only noise. It is the wrong mathematical inquiry to make, because the structure of the differences occur at a higher dimensionality than the method used to simplify them. The same is true when seeking differences in brain data.
 
-.. image:: avg.png
+.. image:: averages.png
   :width: 400
