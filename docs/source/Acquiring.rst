@@ -6,5 +6,6 @@ Southern does not currently have neuroimaging capability, which limits the exper
 
 .. image:: 8.png
    :width: 600
+
 .. image:: 9.png
    :width: 600
