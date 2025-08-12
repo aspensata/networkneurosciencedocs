@@ -1,3 +1,3 @@
 
-.. image:: networkneurosciencedocs/docs/venn.png
+.. image:: venn.png
   :width: 400
